@@ -1,6 +1,7 @@
 # Matched-Filters-Correlators-ISI
 With a team of four, we have made a MATLAB code that proves that Matched filter is the best filter, and the same as correlators at sampling time(Ts) and investigated the ISI
 
+# Introduction
 The PAM signals can be viewed as a result of convolution between impulses located 
 every Ts and a pulse shaping function p(t), where Ts is the symbol duration, the 
 symbol rate is Rs=1/Ts.
